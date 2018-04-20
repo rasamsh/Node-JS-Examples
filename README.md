@@ -7,4 +7,5 @@ Sample node js requests with routing
 ```
 	> Install node js 
 	> node filename
+  > http://localhost:3000
 ```
